@@ -1,16 +1,5 @@
 # sign_up_login_1
 
-A new Flutter project.
+A SignUp-Login UI in Flutter. This is only for self-improvement.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I have tried to replicate the **Login and Signup Screen** by **[Nur Alif Mustofa](https://dribbble.com/shots/9354241-Login-and-Sign-Up-Screen)** and all rights for the design belong to him.
